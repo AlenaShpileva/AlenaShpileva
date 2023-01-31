@@ -1,5 +1,12 @@
-### Hi there 👋
-I'm from Novosibirsk
+## About me
+I live in Novosibirsk.
+
+Passed the course "Software Testing". 
+[My Certificate](https://drive.google.com/file/d/1Pg_gsP_-6kQghvwgUp39b0p7zCt4pW-5/view?usp=share_link).
+
+I'm looking for a job as a Software tester / QA Engineer.
+
+Here you can find some of my test documentations.
 <!--
 **AlenaShpileva/AlenaShpileva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
