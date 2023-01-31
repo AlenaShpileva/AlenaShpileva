@@ -6,7 +6,7 @@ Passed the course "Software Testing".
 
 I'm looking for a job as a Software tester / QA Engineer.
 
-Here you can find some of my test documentations.
+Here you can find some of my works.
 <!--
 **AlenaShpileva/AlenaShpileva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
